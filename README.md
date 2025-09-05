@@ -1,5 +1,4 @@
 ## Hi there 👋
-![Uploading banner.gif…]()
 
 <!--!
 
