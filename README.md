@@ -1,4 +1,4 @@
-## Hi there 👋
+## hello ^_^
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fbcf9e4b-5a8c-4be3-8456-da7f80b1d1c0" alt="banner"/>
 </p>
