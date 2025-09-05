@@ -5,7 +5,7 @@
 
 ## 𝐴𝐵𝑂𝑈𝑇 𝑀𝐸
 <div>
-<img src="https://github.com/user-attachments/assets/e1b4ebfe-d295-49d6-8c01-a4c9f11ff806" align="right" width=300>
+<img src="https://github.com/user-attachments/assets/e1b4ebfe-d295-49d6-8c01-a4c9f11ff806" align="right" width=205>
   </div>
 <div>
 <ul>
@@ -16,7 +16,8 @@
 </ul>
 </div>
 <div>
-<h3>I believe I am still a beginner and I tend to learn in a slower pace because it is really important for me to grasp on </h3>
+<h3>Here I will share my study journey and more! ^_^</h3>
+<h3>If I will ever consider giving up I will remember that my README is cute so there's no way im quitting.</h3>
 </div>
 
 
