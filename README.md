@@ -1,7 +1,8 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fbcf9e4b-5a8c-4be3-8456-da7f80b1d1c0" alt="banner" />
+  <img src="https://github.com/user-attachments/assets/fbcf9e4b-5a8c-4be3-8456-da7f80b1d1c0" alt="banner" width=600/>
 </p>
+
 <!--!
 
 **doll-exe/doll-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
