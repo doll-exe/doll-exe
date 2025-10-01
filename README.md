@@ -10,8 +10,8 @@
 <div>
 <ul>
   <li><h3>I am a first year Computer Science student at Seoul National University</h3></li>
-  <li><h3>Currently learning:</b> C, Computer Networks, Linux</h3></li>
-  <li><h3>Interested in:</b> CTFs</h3></li>
+  <li><h3>Currently learning:</b> C, Computer Networks, Linux, Algorithms</h3></li>
+  <li><h3>Interested in/planning to learn:</b> CTFs, reverse engineering </h3></li>
   <li><h3>Other interests:</b> art and creative projects</h3></li>
 </ul>
 </div>
