@@ -9,8 +9,8 @@
   </div>
 <div>
 <ul>
-  <li><h3>Currently tryna grind leetcode</h3></li>
-  <li><h3>Currently learning:</b> Linux</h3></li>
+  <li><h3>Took a break, I am back</h3></li>
+  <li><h3>Currently learning:</b> Algorithms, Data Structures</h3></li>
 </ul>
 </div>
 
