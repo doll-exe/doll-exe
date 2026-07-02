@@ -9,7 +9,7 @@
   </div>
 <div>
 <ul>
-  <li><h3>Took a break, I am back</h3></li>
+  <li><h3></h3></li>
   <li><h3>Currently learning:</b> Algorithms, Data Structures</h3></li>
 </ul>
 </div>
