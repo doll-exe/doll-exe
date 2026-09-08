@@ -10,6 +10,7 @@
 <div>
 <ul>
   <li><h3>Currently learning:</b> Algorithms, Data Structures</h3></li>
+  <li><h3>Interested in: CTFs, System Security, Art</h3></li>
 </ul>
 </div>
 
